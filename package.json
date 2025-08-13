@@ -1,0 +1,17 @@
+{
+  "name": "ngo-donation-inventory-system",
+  "version": "1.0.0",
+  "description": "A web application for managing donations in an NGO.",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "NGO",
+    "donation",
+    "inventory",
+    "management"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
