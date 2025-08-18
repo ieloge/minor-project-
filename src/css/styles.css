@@ -69,18 +69,28 @@ nav {
     grid-column: inherit;
 }
 
-#interface{
+.nav{
     width: calc(100%-300px);
 }
 
-#interface .nav{
+.nav{
 display: flex;
+width: 100%;
 align-items: center;
 justify-content: space-between;
 background: #01d9ff;
-padding: 15px 30px;
-border-bottom: #6366f1 ;
+    padding: 10px 20px;
+    position: fixed;
+    top: 0;
+    left: 300px; 
 }
+
+#nav .n1{
+    display: flex;
+    align-items: center;
+}
+
+
 
 
 
